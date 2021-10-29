@@ -1,2 +1,2 @@
 # rohit_resume_site
-first site created to share resume using link in world.
+Rohit patil personal site created to share resume/information using a link in world.
